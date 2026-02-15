@@ -96,16 +96,7 @@ This step converts text → machine learning compatible features.
 * Applying ensemble models for classification
 * Model evaluation and debugging
 
----
-
-## 📈 Future Improvements
-
-* Hyperparameter tuning
-* Using TF-IDF or BERT embeddings
-* Cross-validation
-* Model comparison (SVM, XGBoost, etc.)
-* Deployment as API or Web App
-
+  
 ---
 
 ## 🏁 Conclusion
