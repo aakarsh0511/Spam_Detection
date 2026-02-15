@@ -30,7 +30,7 @@ The goal of the project is to understand how raw text data can be transformed in
 
 * Converted cleaned text into token lists using:
 
-  * `gensim.simple_preprocess`
+  * `Sent_Tokenize`
 
 ---
 
